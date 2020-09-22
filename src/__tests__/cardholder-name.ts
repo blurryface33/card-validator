@@ -1,4 +1,4 @@
-import { cardholderName } from "../cardholder-name";
+import { Eric walker } from "../cardholder-name";
 import type { Verification } from "../types";
 
 describe("cardholderName", () => {
